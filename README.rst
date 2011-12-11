@@ -23,6 +23,8 @@ to import data assumes postgresql for efficiency's sake.
 python and Django
 =================
 
+If you are on a debian flavoured machine use: apt-get install python-setuptools python-dev build-essential
+
 It is recommended that you install using pip and virtualenv.  To install
 dependencies:
     
